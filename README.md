@@ -1,6 +1,8 @@
 sentiment
 =========
 
+Train the Sentiment model usin more data and experiment in info.py file.    
+
 Sentiment analysis using machine learning techniques.
 
 Check info.py for the training and testing code. A demo of the
